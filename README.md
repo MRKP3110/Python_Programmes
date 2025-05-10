@@ -6,18 +6,26 @@ Welcome to the Machine Learning Programs repository! This collection contains va
 
 Machine-Learning-Programs/
 
+README.md
+
 # 🚀 Features
 
 Implementations of common ML algorithms: Linear Regression, Logistic Regression, KNN, Pipelining, Column Transformation, Encoding, Power Conversion, Scalling, Discretization, Feature Selection etc.
+
 Data preprocessing and feature engineering examples.
+
 Jupyter Notebooks for easy visualization and experimentation.
 
 # 🛠️ Tech Stack
 
 Python 3.x
+
 Scikit-learn
+
 Pandas / NumPy
+
 Matplotlib / Seaborn
+
 Jupyter Notebook
 
 # 📌 Prerequisites
@@ -30,10 +38,9 @@ bash: pip install -r requirements.txt
 
 # 📘 How to Use
 
-1.Clone this repository:
-
-bash: git clone https://github.com/yourusername/machine-learning-programs.git
-      cd machine-learning-programs
+1.Clone this repository: git clone https://github.com/yourusername/machine-learning-programs.git
+     
+                         cd machine-learning-programs
 
 2.Explore the directories based on your topic of interest.
 
