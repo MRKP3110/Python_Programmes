@@ -38,8 +38,9 @@ README.md
 # 📘 How to Use
 
  1.Clone this repository: 
+
       bash:
-      
+
             git clone https://github.com/yourusername/machine-learning-programs.git
      
             cd machine-learning-programs
