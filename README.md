@@ -9,40 +9,40 @@ README.md
 
 # 🚀 Features
 
-> Implementations of common ML algorithms: Linear Regression, Logistic Regression, KNN, Pipelining, Column   Transformation, Encoding, Power Conversion, Scalling, Discretization, Feature Selection etc.
+ Implementations of common ML algorithms: Linear Regression, Logistic Regression, KNN, Pipelining, Column   Transformation, Encoding, Power Conversion, Scalling, Discretization, Feature Selection etc.
 
-> Data preprocessing and feature engineering examples.
+ Data preprocessing and feature engineering examples.
 
-> Jupyter Notebooks for easy visualization and experimentation.
+ Jupyter Notebooks for easy visualization and experimentation.
 
 # 🛠️ Tech Stack
 
-> Python 3.x
+ Python 3.x
 
-> Scikit-learn
+ Scikit-learn
 
-> Pandas / NumPy
+ Pandas / NumPy
 
-> Matplotlib / Seaborn
+ Matplotlib / Seaborn
 
-> Jupyter Notebook
+ Jupyter Notebook
 
 # 📌 Prerequisites
 
-> To run the programs locally, make sure you have Python installed. Install required dependencies:
+ To run the programs locally, make sure you have Python installed. Install required dependencies:
 
-> bash: pip install -r requirements.txt
+ bash: pip install -r requirements.txt
 
->(If you don’t have a requirements.txt, you can generate one using: pip freeze > requirements.txt)
+ (If you don’t have a requirements.txt, you can generate one using: pip freeze > requirements.txt)
 
 # 📘 How to Use
 
-> 1.Clone this repository: 
-
-                             git clone https://github.com/yourusername/machine-learning-programs.git
+ 1.Clone this repository: 
+      bash:
+            git clone https://github.com/yourusername/machine-learning-programs.git
      
-                             cd machine-learning-programs
+            cd machine-learning-programs
 
-> 2.Explore the directories based on your topic of interest.
+ 2.Explore the directories based on your topic of interest.
 
-> 3.Run the scripts or open .ipynb notebooks in Jupyter.
+ 3.Run the scripts or open .ipynb notebooks in Jupyter.
